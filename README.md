@@ -1,6 +1,6 @@
 <h1 align="center">I'm jiahuiiiii</h1>
 <h4 align="center">FULL STACK DEVELOPER | UI/UX DESIGNER</h4>
-<h6 align="center">CREATIVITY | VISIONARY | INNOVATIVE</p>
+<h6 align="center">ALWAYS PROCRATINATING BUT STILL MANAGE TO GET THE WORK DONE PERFECTLY</p>
 <br/>
 
 <div align="center">
@@ -52,7 +52,7 @@
 
 <h1 align="center">Projects I'm Working On ⌨️</h1>
 
-<a href="https://github.com/melvinchia3636/gitinfo">
+<a href="https://github.com/jiahuiiiii/weather-api">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=gitinfo&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
 </a>
 <a href="https://github.com/anuraghazra/melvinchia3636/MCS">
