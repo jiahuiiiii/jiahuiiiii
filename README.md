@@ -28,9 +28,9 @@
   
   🤔: I’m looking for help with something that can give me motivation! 💪
   
-  💬: Ask me about Web scraping, Javscript, Python, databases, API, UI designs, and anything about web development.
+  💬: Ask me anything about web development.
   
-  😄  Pronouns: SHe/Her
+  😄  Pronouns: She/Her
   
   ⚡  Fun fact: I always start new projects before finishing old one. 🙃
   
