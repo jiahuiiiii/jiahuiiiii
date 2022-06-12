@@ -51,7 +51,7 @@
 <br/>
 
 <h1 align="center">Projects I'm Working On ⌨️</h1>
-
+<!-- 
 <a href="https://github.com/jiahuiiiii/weather-api">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=gitinfo&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
 </a>
@@ -69,7 +69,7 @@
 </a>
 <a href="https://github.com/anuraghazra/melvinchia3636/IRC">
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=IRC&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
+</a> -->
 
 <br/>
 
