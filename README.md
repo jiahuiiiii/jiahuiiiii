@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/-ANESTHESIA24DESU@GMAIL.COM-FF0000?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
   </a>
   <a href="https://www.youtube.com/channel/UCqRNJv53WmheTEZuSa7CtTg">
-    <img src="https://img.shields.io/badge/-JIAHUIIIII-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/-camel_case-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
  </div>
