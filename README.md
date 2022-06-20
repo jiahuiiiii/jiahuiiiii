@@ -17,10 +17,10 @@
   
 </div>
 
-<h1 align="center">About Me! 😎</h1>
+<h1 align="center">About Me! (●'◡'●)</h1>
 <div align="center"> 
   
-  🏫: I'm a 15 years old Senior High School Student.
+  🏫: I'm a 15 years old Junior High School Student.
   
   🔭: I’m currently working on lots of cool web apps.
   
