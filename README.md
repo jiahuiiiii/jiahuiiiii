@@ -29,38 +29,3 @@
 [![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=jiahuiiiii&bg_color=22272e00&hide_border=true&color=fbbf24&area_color=A1A1AA&title_color=fbbf24&line=fbbf24&point=A16207)](https://github.com/jiahuiiiii)
 
 <br/>
-
-<h1 align="center">Projects I'm Working On ⌨️</h1>
-<!-- 
-<a href="https://github.com/jiahuiiiii/weather-api">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=gitinfo&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
-<a href="https://github.com/anuraghazra/melvinchia3636/MCS">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=MCS&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
-<a href="https://github.com/anuraghazra/melvinchia3636/cruisegator">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=cruisegator&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
-<a href="https://github.com/anuraghazra/melvinchia3636/codeblogV9">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=codeblogV9&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
-<a href="https://github.com/anuraghazra/melvinchia3636/vanilla-tweaks">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=vanillaTweaks&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a>
-<a href="https://github.com/anuraghazra/melvinchia3636/IRC">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=melvinchia3636&repo=IRC&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24&icon_color=fbbf24" />
-</a> -->
-
-<br/>
-
-<h1 align="center">Get In Touch 📪</h1>
-<div align="center">
-  
-  <a href="mailto:anesthesia24desu@gmail.com">
-    <img src="https://img.shields.io/badge/-ANESTHESIA24DESU@GMAIL.COM-FF0000?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCqRNJv53WmheTEZuSa7CtTg">
-    <img src="https://img.shields.io/badge/-camel_case-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  
- </div>
