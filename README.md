@@ -1,5 +1,5 @@
 <h1 align="center">I'm jiahuiiiii</h1>
-<h4 align="center">FULL STACK DEVELOPER | UI/UX DESIGNER</h4>
+<h4 align="center">LEANER</h4>
 <h6 align="center">ALWAYS PROCRATINATING BUT STILL MANAGE TO GET THE WORK DONE PERFECTLY</p>
 <br/>
 
@@ -14,26 +14,6 @@
   ![skills](https://img.shields.io/badge/-REACT_JS-FF0000?style=for-the-badge&logo=react&logoColor=white&color=38BDF8)
   ![skills](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![skills](https://img.shields.io/badge/-FIGMA-FF0000?style=for-the-badge&logo=figma&logoColor=white&color=red)
-  
-</div>
-
-<h1 align="center">About Me! (●'◡'●)</h1>
-<div align="center"> 
-  
-  🏫: I'm a 15 years old Junior High School Student.
-  
-  🔭: I’m currently working on lots of cool web apps.
-  
-  🌱: I’m currently learning new frontend & CSS frameworks. 🖥
-  
-  🤔: I’m looking for help with something that can give me motivation! 💪
-  
-  💬: Ask me anything about web development.
-  
-  😄  Pronouns: She/Her
-  
-  ⚡  Fun fact: I always start new projects before finishing old one. 🙃
-  
   
 </div>
 
