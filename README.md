@@ -24,6 +24,4 @@
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiahuiiiii&layout=compact&bg_color=22272e00&hide_border=true&text_color=A1A1AA&title_color=fbbf24" />
 </div>
 
-[![My Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=jiahuiiiii&bg_color=22272e00&hide_border=true&color=fbbf24&area_color=A1A1AA&title_color=fbbf24&line=fbbf24&point=A16207)](https://github.com/jiahuiiiii)
-
 <br/>
